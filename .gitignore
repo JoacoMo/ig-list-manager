@@ -1,0 +1,17 @@
+# Datos personales: la base de usuarios nunca se sube al repo
+usuarios_ig.txt
+usuarios_ig*.txt
+usuarios_ig*.xlsx
+*.tmp
+backups/
+recuperar_*.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editores
+.idea/
+.vscode/
